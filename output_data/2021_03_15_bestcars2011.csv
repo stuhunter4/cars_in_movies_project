@@ -1,0 +1,273 @@
+2011 Rank,Vehicle,2011 Year End,2010 Year End,% Change
+#1,Ford F-Series,584917,528349,+ 10.7%
+#2,Chevrolet Silverado,415130,370135,+ 12.2%
+#3,Toyota Camry,308510,327804,– 5.9%
+#4,Nissan Altima,268981,229263,+ 17.3%
+#5,Ford Escape,254293,191026,+ 33.1%
+#6,Honda Accord/Crosstour,253599,311381,– 18.6%
+#7,Ford Fusion,248067,219219,+ 13.2%
+#8,Dodge Ram,244763,199652,+ 22.6%
+#9,Toyota Corolla/Matrix,240259,266082,– 9.7%
+#10,Chevrolet Cruze,231732,24495,+ 846%
+#11,Hyundai Sonata,225961,196623,+ 14.9%
+#12,Honda Civic,221235,260218,– 15.0%
+#13,Honda CR-V,218373,203714,+ 7.2%
+#14,Chevrolet Malibu,204808,198770,+ 3.0%
+#15,Chevrolet Equinox,193274,149979,+ 28.9%
+#16,Hyundai Elantra,186361,132246,+ 40.9%
+#17,Volkswagen Jetta,177360,123213,+ 43.9%
+#18,Ford Focus,175717,172421,+ 1.9%
+#19,Chevrolet Impala,171434,172078,– 0.4%
+#20,GMC Sierra,149170,129794,+ 14.9%
+#21,Toyota Prius/Prius V,136463,140928,– 3.2%
+#22,Ford Explorer,135704,60687,+ 124%
+#23,Toyota RAV4,132237,170877,– 22.6%
+#24,Kia Sorento,130235,108985,+ 19.5%
+#25,Jeep Grand Cherokee,127744,84635,+ 50.9%
+#26,Nissan Rogue,124543,99515,+ 25.1%
+#27,Jeep Wrangler,122460,94310,+ 29.8%
+#28,Ford Edge,121702,118637,+ 2.6%
+#29,Honda Pilot,116297,102323,+ 13.7%
+#30,Nissan Sentra,114991,94065,+ 22.2%
+#31,Toyota Sienna,111429,98337,+ 13.3%
+#32,Dodge Grand Caravan,110862,103323,+ 7.3%
+#33,Toyota Tacoma,110705,106198,+ 4.2%
+#34,Chevrolet Traverse,107131,106744,+ 0.4%
+#35,Honda Odyssey,107068,108182,– 1.0%
+#36,Subaru Outback,104405,93148,+ 12.1%
+#37,Mazda 3,102417,106353,– 3.7%
+#38,Kia Soul,102267,67110,+ 52.4%
+#39,Toyota Highlander,101252,92121,+ 9.9%
+#40,Nissan Versa,99730,99705,+ 0.02%
+#41,BMW 3-Series,94371,100910,– 6.5%
+#42,Chrysler Town & Country,94320,112275,– 16.0%
+#43,Chrysler 200/Sebring,89413,35585,+ 151.3%
+#44,Chevrolet Camaro,88249,81299,+ 8.5%
+#45,Kia Optima,84590,27382,+ 209%
+#46,GMC Terrain,83179,60519,+ 37.4%
+#47,Toyota Tundra,82908,93309,– 11.1%
+#48,Lexus RX,82595,95790,– 13.8%
+#49,Chevrolet Tahoe,80527,75675,+ 6.4%
+#50,GMC Acadia,79288,68295,+ 16.1%
+#51,Kia Forte,76295,68500,+ 11.4%
+#52,Subaru Forester,76196,85080,– 10.4%
+#53,Hyundai Santa Fe,74391,76680,– 3.0%
+#54,Ford Ranger,70832,55364,+ 27.9%
+#55,Ford Mustang,70438,73716,– 4.4%
+#56,Dodge Charger,70089,75397,– 7.0%
+#57,Mercedes-Benz C-Class,69314,58785,+ 17.9%
+#58,Ford Fiesta,68574,23273,+ 195%
+#59,Jeep Liberty,66684,49564,+ 34.5%
+#60,Dodge Avenger,64023,50923,+ 25.7%
+#61,Ford Taurus,63526,68859,– 7.7%
+#62,Mercedes-Benz E-Class,62736,60922,+ 3.0%
+#63,Honda Fit,59235,54354,+ 9.0%
+#64,Nissan Maxima,58737,60569,– 3.0%
+#65,Buick LaCrosse,58474,61178,– 4.4%
+#66,Buick Enclave,58392,55426,+ 5.4%
+#67,Infiniti G,58246,58143,+ 0.2%
+#68,Cadillac SRX,56905,51094,+ 11.4%
+#69,Hyundai Accent,55601,51975,+ 7.0%
+#70,Dodge Journey,55155,48577,+ 13.5%
+#71,Cadillac CTS,55042,45656,+ 20.6%
+#72,Jeep Patriot,54647,38620,+ 41.5%
+#73,Nissan Murano,53626,53999,– 0.7%
+#74,Nissan Frontier,51700,40427,+ 27.9%
+#75,Dodge Durango,51697,572,+ 8938%
+#76,BMW 5-Series,51491,39488,+ 30.4%
+#77,Chevrolet Suburban,49427,45152,+ 9.5%
+#78,Jeep Compass,47709,15894,+ 200%
+#79,Kia Sportage,47463,23873,+ 98.8%
+#80,Hyundai Tucson,47232,39594,+ 19.3%
+#81,Ford Crown Victoria,46725,33722,+ 38.6%
+#82,Chevrolet Aveo/Sonic,44379,48623,– 8.7%
+#83,Toyota 4Runner,44316,46531,– 4.8%
+#84,Acura MDX,43271,47210,– 8.3%
+#85,Subaru Legacy,42401,38725,+ 9.5%
+#86,Subaru Impreza,41196,44395,– 7.2%
+#87,Lexus ES350,40873,48652,– 16.0%
+#88,Mini Cooper,40828,45069,– 9.4%
+#89,BMW X5,40547,35776,+ 13.3%
+#90,Ford Expedition,40499,37336,+ 8.5%
+#91,Buick Regal,40144,12326,+ 226%
+#92,Dodge Challenger,39534,36791,+ 7.5%
+#93,Toyota Venza,38904,47321,– 17.8%
+#94,Chevrolet HHR,37012,75401,– 50.9%
+#95,Chrysler 300,36285,37116,– 2.2%
+#96,Nissan Juke,35886,8639,+ 315%
+#97,Mercedes-Benz M-Class,35835,26698,+ 20.7%
+#98,Mazda 6,35711,35662,+ 0.1%
+#99,Mazda CX-7,35641,28788,+ 23.8%
+#100,Audi A4,35234,34672,+ 1.6%
+#101,Dodge Caliber,35049,45082,– 22.3%
+#102,Volkswagen Golf,34706,28286,+ 22.7%
+#103,Mazda CX-9,34421,28908,+ 19.1%
+#104,GMC Yukon,34250,28781,+ 19.0%
+#105,Hyundai Genesis,32998,29122,+ 13.3%
+#106,Toyota Yaris,32704,40076,– 18.4%
+#107,Acura TL,31237,34049,– 8.3%
+#108,Chevrolet Colorado,31026,24642,+ 25.9%
+#109,Acura TSX,30935,32076,– 3.6%
+#110,Lexus IS,29669,34129,– 13.1%
+#111,Volkswagen CC,29502,27987,+ 5.4%
+#112,Toyota Avalon,28925,28390,+ 1.9%
+#113,BMW X3,27793,6075,+ 358%
+#114,Lincoln MKZ,27529,22535,+ 22.2%
+#115,Ford Flex,27428,34227,– 19.9%
+#116,Volkswagen Tiguan,25990,20946,+ 24.1%
+#117,Nissan Pathfinder,25935,21438,+ 21.0%
+#118,Cadillac Escalade,25503,26874,– 5.1%
+#119,GMC Yukon XL,25223,23797,+ 6.0%
+#120,Mercedes-Benz GL-Class,25139,19943,+ 26.1%
+#121,Audi Q5,24908,23518,+ 5.9%
+#122,Dodge Nitro,24434,22618,+ 8.0%
+#123,Mercedes-Benz GLK,24310,20946,+ 16.1%
+#124,Kia Sedona,24047,21823,+ 10.2%
+#125,Lincoln MKX,23395,21932,+ 6.7%
+#126,Volkswagen Passat,22835,12497,+ 82.7%
+#127,Scion tC,22433,15204,+ 47.5%
+#128,Nissan Titan,21994,23416,– 6.1%
+#129,Volvo S60,21282,1437,+ 1381%
+#130,Buick Lucerne,20358,26459,– 23.1%
+#131,Kia Rio,20111,24619,– 18.3%
+#132,Chevrolet Avalanche,20088,20515,– 2.1%
+#133,Mitsubishi Lancer,19874,21416,– 7.2%
+#134,Fiat 500,19769,—–,—–
+#135,Mazda 5,19155,15683,+ 22.1%
+#136,Nissan Armada,18331,19344,– 5.2%
+#137,Nissan Xterra,18221,20523,– 11.2%
+#138,Scion xB,17017,20364,– 16.4%
+#139,Mini Countryman,16683,575,+ 2801%
+#140,Mitsubishi Outlander Sport,16443,1690,+ 873%
+#141,Mitsubishi Galant,15631,11492,+ 36.0%
+#142,Honda Insight,15549,20962,– 25.8%
+#143,Audi A5,15385,16379,– 6.1%
+#144,Land Rover Range Rover Sport,15333,12347,+ 24.2%
+#145,Acura RDX,15196,14975,+ 1.5%
+#146,Nissan Cube,14459,22968,– 37.0%
+#147,Lexus CT200h,14381,—–,—–
+#148,Mazda 2,13952,3021,+ 362%
+#149,Toyota FJ Cruiser,13541,14959,– 9.5%
+#150,Infiniti QX56,13428,11918,+ 12.7%
+#151,Chevrolet Corvette,13164,12624,+ 4.3%
+#152,Toyota Sequoia,13022,13848,– 6.0%
+#153,Porsche Cayenne,12978,8343,+ 55.6%
+#154,Volvo XC60,12932,12030,+ 7.5%
+#155,Suzuki SX4,12519,11606,+ 7.9%
+#156,Volkswagen Routan,12473,15961,– 21.9%
+#157,Mercedes-Benz S-Class,12258,13608,– 9.9%
+#158,Lincoln MKS,12217,14417,– 15.3%
+#159,Nissan Quest,12199,177,+ 6792%
+#160,Dodge Dakota,12156,13047,– 6.8%
+#161,Lexus GX460,11609,16450,– 29.4%
+#162,Cadillac DTS,11589,18640,– 37.8%
+#163,Honda Element,11534,14247,– 19.0%
+#164,Honda CR-Z,11330,5249,+ 116%
+#165,BMW 7-Series,11299,12253,– 7.8%
+#166,Audi A6,11124,8675,+ 28.2%
+#167,Infiniti M,10818,14618,– 26.0%
+#168,Volvo XC90,10609,10119,+ 4.8%
+#169,Infiniti FX,9939,10420,– 4.6%
+#170,Mitsubishi Outlander,9788,12500,– 21.7%
+#171,Land Rover Range Rover,9761,8746,+ 11.6%
+#172,Honda Ridgeline,9759,16142,– 39.5%
+#173,Nissan LEAF,9674,19,"+ 50,816%"
+#174,Mitsubishi Endeavor,9658,4294,+ 125%
+#175,GMC Canyon,9590,7992,+ 20.0%
+#176,Scion xD,9573,10110,– 5.3%
+#177,Lexus LS,9568,12275,– 22.1%
+#178,Lincoln Town Car,9460,11264,– 16.0%
+#179,Hyundai Veloster,9284,—–,—–
+#180,Hyundai Veracruz,9146,8741,+ 4.6%
+#181,Audi Q7,8998,7976,+ 12.8%
+#182,BMW 1-Series,8832,13132,– 32.7%
+#183,Lincoln Navigator,8018,8245,– 2.8%
+#184,Land Rover LR4,7984,7122,+ 12.1%
+#185,Chevrolet Volt,7671,326,+ 2253%
+#186,Mitsubishi Eclipse,7546,4282,+ 76.2%
+#187,Volkswagen Touareg,7535,4713,+ 59.9%
+#188,Volkswagen Eos,7533,6690,+ 12.6%
+#189,Nissan 370Z,7328,10215,– 28.3%
+#190,Chevrolet Captiva Sport,7038,—–,—–
+#191,Suzuki Kizashi,6942,6138,+ 13.1%
+#192,Porsche Panamera,6879,7741,– 11.1%
+#193,Audi A3,6561,6558,+ 0.05%
+#194,Volkswagen Beetle,6468,16537,– 60.9%
+#195,Audi A7,6270,—–,—–
+#196,BMW X6,6192,6257,– 1.0%
+#197,Infiniti EX35,6030,8312,– 27.5%
+#198,Porsche 911,6016,5737,+ 4.9%
+#199,Volvo XC70,5716,6626,– 13.7%
+#200,Audi A8,5700,1521,+ 275%
+#201,Mazda MX-5 Miata,5674,6370,– 10.9%
+#202,Mercedes-Benz CLS-Class,5665,2135,+ 165%
+#203,Jaguar XF,5303,6925,– 23.4%
+#204,Jaguar XJ,5235,4278,+ 22.4%
+#205,Smart Fortwo,5208,5927,– 12.1%
+#206,Lincoln MKT,5024,7435,– 32.4%
+#207,Suzuki Grand Vitara,4980,4478,+ 11.2%
+#208,Volvo C70,4933,4368,+ 12.9%
+#209,Volvo S80,4735,7224,– 34.5%
+#210,BMW 6-Series,3903,2418,+ 61.4%
+#211,Saab 9-3,3847,4533,– 15.1%
+#212,Lexus GS,3746,7059,– 46.9%
+#213,BMW Z4,3479,3804,– 8.5%
+#214,Volvo C30,3471,3906,– 11.1%
+#215,Cadillac STS,3338,4473,– 25.4%
+#216,Mercedes-Benz SLK,3220,1980,+ 62.6%
+#217,Hyundai Equus,3193,196,+ 1529%
+#218,Lexus LX570,3167,3983,– 20.5%
+#219,Volvo S40,2984,5623,– 46.9%
+#220,Lexus HS250h,2864,10663,– 73.1%
+#221,Subaru Tribeca,2791,2472,+ 12.9%
+#222,Land Rover LR2,2777,3649,– 23.9%
+#223,Mazda Tribute,2696,3637,– 25.9%
+#224,Mercedes-Benz R-Class,2385,2937,– 18.8%
+#225,Land Rover Range Rover Evoque,2244,—–,—–
+#226,Audi TT,2236,1531,+ 46.0%
+#227,Suzuki Equator,2127,1447,+ 47.0%
+#228,Porsche Boxster,1773,2177,– 18.6%
+#229,Jaguar XK,1738,2137,– 18.7%
+#230,Toyota Land Cruiser,1662,1807,– 8.0%
+#231,Acura ZDX,1564,3259,– 52.0%
+#232,Hyundai Azera,1524,3051,– 50.0%
+#233,Saab 9-5,1496,811,+ 84.5%
+#234,Mercedes-Benz SL-Class,1449,2385,– 39.2%
+#235,Porsche Cayman,1377,1322,+ 4.2%
+#236,Chrysler PT Cruiser,1328,9440,– 85.9%
+#237,Nissan GT-R,1294,877,+ 47.5%
+#238,Mercedes-Benz G-Class,1191,919,+ 29.6%
+#239,Audi R8,1145,799,+ 43.3%
+#240,Acura RL,1096,2037,– 46.2%
+#241,Mercedes-Benz CL-Class,943,1035,– 8.9%
+#242,Chevrolet Caprice,880,—–,—–
+#243,Chevrolet Cobalt,856,97376,– 99.1%
+#244,Mazda RX-8,759,1134,– 33.1%
+#245,Mercedes-Benz SLS AMG,722,499,+ 44.7%
+#246,Volvo V50,555,1720,– 67.7%
+#247,Kia Borrego,429,9835,– 95.6%
+#248,Saab 9-4X,267,—–,—–
+#249,Buick Verano,265,—–,—–
+#250,Scion iQ,248,—–,—–
+#251,Dodge Viper,197,392,– 49.7%
+#252,Jeep Commander,105,8115,– 98.7%
+#253,Mitsubishi i MiEV,80,—–,—–
+#254,Lexus LFA,62,—–,—–
+#255,Suzuki XL7,48,313,– 84.7%
+#256,Kia Rondo,47,3588,– 98.7%
+#257,Chevrolet TrailBlazer,33,218,– 84.9%
+#258,Mercedes-Benz B-Class,19,1,+ 1800%
+#259,Lexus SC430,18,328,– 94.5%
+#260,Cadillac XLR,12,188,– 93.6%
+#261,Kia Amanti,8,281,– 97.2%
+#262,Mercedes-Benz CLK-Class,6,585,– 99.0%
+T263,GMC Envoy,5,84,– 94.0%
+T263,Honda S2000,5,85,– 94.1%
+#265,Honda FCX,2,18,– 88.2%
+T266,Suzuki Forenza/Reno,1,12,– 91.7%
+T266,Suzuki Verona,1,—–,—–
+—,Overall Market,12779007,11589844,+ 10.3%
+—,Total,12517295,11371674,+ 10.1%
+—,—–,—–,—–,—–
+—,Commercial Vans,261712,218170,+ 20.0%
+—,—–,—–,—–,—–
