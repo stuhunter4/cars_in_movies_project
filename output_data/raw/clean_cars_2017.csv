@@ -1,0 +1,297 @@
+Vehicle,2017 Year End,2016 Year End,% Change 2017
+Acura ILX,11757,14597,-19.5
+Acura MDX,54886,55495,-1.1
+Acura NSX,581,269,116.0
+Acura RDX,51295,52361,-2.0
+Acura RLX,1237,1478,-16.3
+Acura TLX,34846,37153,-6.2
+Alfa Romeo 4C,407,480,-15.2
+Alfa Romeo Giulia,8903,36,24630.6
+Alfa Romeo Stelvio,2721,0,0.0
+Audi A3,20733,27258,-23.9
+Audi A3 e-tron,2877,4280,-32.8
+Audi A4,37674,36987,1.9
+Audi A5,21301,8354,155.0
+Audi A6,16304,18686,-12.7
+Audi A7,4810,6558,-26.7
+Audi A8,3127,4149,-24.6
+Audi Q3,20633,20048,2.9
+Audi Q5,57640,49550,16.3
+Audi Q7,38346,30563,25.5
+Audi R8,772,736,4.9
+Audi TT,2294,3044,-24.6
+BMW 2-Series,11737,15519,-24.4
+BMW 3-Series,59449,70458,-15.6
+BMW 4-Series,39634,35763,10.8
+BMW 5-Series,40658,32408,25.5
+BMW 6-Series,3355,3947,-15.0
+BMW 7-Series,9276,12918,-28.2
+BMW X1,30826,27812,10.8
+BMW X3,40691,44196,-7.9
+BMW X4,5198,4989,4.2
+BMW X5,50815,47641,6.7
+BMW X6,6780,7117,-4.7
+BMW Z4,502,1187,-57.7
+BMW i3,6276,7625,-17.7
+BMW i8,488,1594,-69.4
+Bentley Bentayga,1152,884,30.3
+Bentley Continental GT,898,1144,-21.5
+Bentley Flying Spur,257,400,-35.8
+Bentley Mulsanne,98,153,-35.9
+Buick Cascada,5595,7153,-21.8
+Buick Enclave,48564,52028,-6.7
+Buick Encore,88035,78565,12.1
+Buick Envision,41040,14193,189.2
+Buick LaCrosse,20161,27582,-26.9
+Buick Regal,11559,19833,-41.7
+Buick Verano,4277,30277,-85.9
+Cadillac ATS,13100,21505,-39.1
+Cadillac CT6,10542,9169,15.0
+Cadillac CTS,10344,15911,-35.0
+Cadillac ELR,17,534,-96.8
+Cadillac Escalade,37694,39092,-3.6
+Cadillac SRX,156,22139,-99.3
+Cadillac XT5,68312,39485,73.0
+Cadillac XTS,16275,22171,-26.6
+Chevrolet Bolt,23297,579,0.0
+Chevrolet Camaro,67940,72705,-6.6
+Chevrolet Caprice PPV,693,1021,-32.1
+Chevrolet City Express,8348,7019,18.9
+Chevrolet Colorado,112996,108725,3.9
+Chevrolet Corvette,25079,29995,-16.4
+Chevrolet Cruze,184751,188876,-2.2
+Chevrolet Equinox,290458,242195,19.9
+Chevrolet Express,69164,68007,1.7
+Chevrolet Impala,75877,97006,-21.8
+Chevrolet Malibu,185857,227881,-18.4
+Chevrolet SS,4055,3013,34.6
+Chevrolet Silverado,585864,574876,1.9
+Chevrolet Sonic,30290,55255,-45.2
+Chevrolet Spark,22589,35511,-36.4
+Chevrolet Suburban,56516,60082,-5.9
+Chevrolet Tahoe,98961,103306,-4.2
+Chevrolet Traverse,123506,116701,5.8
+Chevrolet Trax,79289,79016,0.3
+Chevrolet Volt,20349,24739,-17.7
+Chrysler 200,18457,57294,-67.8
+Chrysler 300,51237,53241,-3.8
+Chrysler Pacifica,118274,62366,89.6
+Chrysler Town & Country,577,59071,-99.0
+Dodge Avenger,14,45,-68.9
+Dodge Challenger,64537,64433,0.2
+Dodge Charger,88351,95437,-7.4
+Dodge Dart,10082,43402,-76.8
+Dodge Durango,68761,68474,0.4
+Dodge Grand Caravan,125196,127678,-1.9
+Dodge Journey,89470,106759,-16.2
+Dodge Viper,585,630,-7.1
+Fiat 124 Spider,4478,2475,80.9
+Fiat 500,12685,15437,-17.8
+Fiat 500L,1664,3118,-46.6
+Fiat 500X,7665,11712,-34.6
+Ford C-Max,18390,19834,-7.3
+Ford E-Series,53304,54245,-1.7
+Ford Edge,142603,134588,6.0
+Ford Escape,308296,307069,0.4
+Ford Expedition,51883,59835,-13.3
+Ford Explorer,271131,248507,9.1
+Ford F-Series,896764,820799,9.3
+Ford Fiesta,46249,48807,-5.2
+Ford Flex,22389,22668,-1.2
+Ford Focus,158385,168789,-6.2
+Ford Fusion,209623,265840,-21.1
+Ford GT,89,0,0.0
+Ford Mustang,81866,105932,-22.7
+Ford Taurus,41236,44098,-6.5
+Ford Transit,127360,143244,-11.1
+Ford Transit Connect,34473,43232,-20.3
+GMC Acadia,111276,88466,25.8
+GMC Canyon,32106,37449,-14.3
+GMC Savana,29679,20607,44.0
+GMC Sierra,217943,221680,-1.7
+GMC Terrain,85441,87925,-2.8
+GMC Yukon,49183,53447,-8.0
+GMC Yukon XL,35059,37054,-5.4
+Genesis G80,16196,6166,162.7
+Genesis G90,4398,782,462.4
+Honda Accord,322655,345225,-6.5
+Honda CR-V,377895,357335,5.8
+Honda CR-Z,705,2338,-69.8
+Honda Civic,377286,366927,2.8
+Honda Clarity FCV,2455,8,0.0
+Honda Crosstour,5,726,-99.3
+Honda Fit,49454,56630,-12.7
+Honda HR-V,94034,82041,14.6
+Honda Insight,3,67,-95.5
+Honda Odyssey,100307,120846,-17.0
+Honda Pilot,127279,120772,5.4
+Honda Ridgeline,34749,23667,46.8
+Hyundai Accent,58955,79766,-26.1
+Hyundai Azera,3060,4942,-38.1
+Hyundai Elantra,198210,208319,-4.9
+Hyundai Equus,20,1361,-98.5
+Hyundai Genesis,1152,23230,-95.0
+Hyundai Ioniq,11197,0,0.0
+Hyundai Santa Fe,133171,131265,1.5
+Hyundai Sonata,131803,199408,-33.9
+Hyundai Tucson,114735,89713,27.9
+Hyundai Veloster,12658,30053,-57.9
+Infiniti Q50,40739,44007,-7.4
+Infiniti Q60,10751,3970,170.8
+Infiniti Q70,5772,5872,-1.7
+Infiniti QX30,14093,2259,523.9
+Infiniti QX50,16857,16973,-0.7
+Infiniti QX60,40444,42120,-4.0
+Infiniti QX70,6878,6261,9.9
+Infiniti QX80,17881,16772,6.6
+Jaguar F-Pace,18946,10016,89.2
+Jaguar F-Type,4108,4069,1.0
+Jaguar XE,9278,6656,39.4
+Jaguar XF,4541,6665,-31.9
+Jaguar XJ,2721,3834,-29.0
+Jeep Cherokee,169882,199736,-14.9
+Jeep Compass,83253,94061,-11.5
+Jeep Grand Cherokee,240696,212273,13.4
+Jeep Patriot,10735,121926,-91.2
+Jeep Renegade,103434,106606,-3.0
+Jeep Wrangler,190522,191774,-0.7
+Kia Cadenza,7249,4738,53.0
+Kia Forte,117596,103292,13.8
+Kia K900,455,834,-45.4
+Kia Niro,27237,0,0.0
+Kia Optima,107493,124203,-13.5
+Kia Rio,16760,28700,-41.6
+Kia Sedona,23815,44264,-46.2
+Kia Sorento,99684,114733,-13.1
+Kia Soul,115712,145768,-20.6
+Kia Sportage,72824,81066,-10.2
+Kia Stinger,843,0,0.0
+Land Rover Discovery / LR4,6398,10772,-40.6
+Land Rover Discovery Sport,14187,14243,-0.4
+Land Rover Range Rover,16869,16155,4.4
+Land Rover Range Rover Evoque,11979,11076,8.2
+Land Rover Range Rover Sport,19153,21612,-11.4
+Land Rover Range Rover Velar,6153,0,0.0
+Lexus CT,4690,8903,-47.3
+Lexus ES,51398,58299,-11.8
+Lexus GS,7773,14878,-47.8
+Lexus GX,27190,25148,8.1
+Lexus IS,26482,37289,-29.0
+Lexus LC,2487,0,0.0
+Lexus LFA,3,6,-50.0
+Lexus LS,4094,5514,-25.8
+Lexus LX,6004,5707,5.2
+Lexus NX,59341,54884,8.1
+Lexus RC,7363,11165,-34.1
+Lexus RX,108307,109435,-1.0
+Lincoln Continental,12012,5261,128.3
+Lincoln MKC,27048,25562,5.8
+Lincoln MKS,153,4951,-96.9
+Lincoln MKT,3005,4028,-25.4
+Lincoln MKX,31031,30967,0.2
+Lincoln MKZ,27387,30534,-10.3
+Lincoln Navigator,10523,10421,1.0
+Maserati Ghibli,5531,7100,-22.1
+Maserati GranTurismo,1018,1249,-18.5
+Maserati Levante,5448,1917,184.2
+Maserati Quattroporte,1700,2268,-25.0
+Mazda 3,75018,95567,-21.5
+Mazda 5,10,375,-97.3
+Mazda 6,33402,45520,-26.6
+Mazda CX-3,16355,18558,-11.9
+Mazda CX-5,127563,112235,13.7
+Mazda CX-9,25828,16051,60.9
+Mazda MX-5 Miata,11294,9465,19.3
+Mercedes-AMG GT,1608,1227,31.1
+Mercedes-Benz B-Class,744,632,17.7
+Mercedes-Benz C-Class,77447,77167,0.4
+Mercedes-Benz CLA-Class,20669,25792,-19.9
+Mercedes-Benz E / CLS-Class,51312,50896,0.8
+Mercedes-Benz G-Class,4188,3950,6.0
+Mercedes-Benz GLA-Class,24104,24545,-1.8
+Mercedes-Benz GLC-Class,48643,47872,1.6
+Mercedes-Benz GLE-Class,54595,51791,5.4
+Mercedes-Benz GLS-Class,32248,30442,5.9
+Mercedes-Benz Metris,7579,5984,26.7
+Mercedes-Benz S-Class,15888,18803,-15.5
+Mercedes-Benz SL-Class,2940,3722,-21.0
+Mercedes-Benz SLC-Class,2860,3397,-15.8
+Mercedes-Benz Sprinter,27415,28320,-3.2
+Mini Cooper,32232,39239,-17.9
+Mini Countryman,14864,12706,17.0
+Mini Paceman,9,84,-89.3
+Mitsubishi Lancer,12725,14304,-11.0
+Mitsubishi Mirage,22386,22226,0.7
+Mitsubishi Outlander,35310,26576,32.9
+Mitsubishi Outlander PHEV,99,0,0.0
+Mitsubishi Outlander Sport,33160,33067,0.3
+Mitsubishi i MiEV,6,94,-93.6
+Nissan 370Z,4614,5913,-22.0
+Nissan Altima,254996,307380,-17.0
+Nissan Armada,35667,14035,154.1
+Nissan Frontier,74360,86926,-14.5
+Nissan GT-R,578,698,-17.2
+Nissan Juke,10157,19577,-48.1
+Nissan Leaf,11230,14006,-19.8
+Nissan Maxima,67627,62670,7.9
+Nissan Murano,76732,86953,-11.8
+Nissan NV,17858,17873,-0.1
+Nissan NV200,18602,18523,0.4
+Nissan Pathfinder,81065,81701,-0.8
+Nissan Quest,4950,11115,-55.5
+Nissan Rogue,403465,329904,22.3
+Nissan Sentra,218451,214709,1.7
+Nissan Titan,52924,21880,141.9
+Nissan Versa,106772,132214,-19.2
+Nissan Xterra,1,38,-97.4
+Porsche 911,8970,8901,0.8
+Porsche Boxster,2287,2670,-14.3
+Porsche Cayenne,13203,15383,-14.2
+Porsche Cayman,2800,3590,-22.0
+Porsche Macan,21429,19332,10.8
+Porsche Panamera,6431,4403,46.1
+Ram P/U,500723,489418,2.3
+Ram ProMaster,40483,40440,0.1
+Ram ProMaster City,15584,15972,-2.4
+Smart Fortwo,3071,6211,-50.6
+Subaru BRZ,4131,4141,-0.2
+Subaru Crosstrek,110138,95677,15.1
+Subaru Forester,177563,178593,-0.6
+Subaru Impreza,117401,88517,32.6
+Subaru Legacy,49837,65306,-23.7
+Subaru Outback,188886,182898,3.3
+Tesla Model 3,2320,0,0.0
+Tesla Model S †,28800,26400,9.1
+Tesla Model X †,24000,14400,66.7
+Toyota 4Runner,128296,111970,14.6
+Toyota 86/Scion FR-S,6846,7457,-8.2
+Toyota Avalon,32583,48080,-32.2
+Toyota C-HR,25755,0,0.0
+Toyota Camry,387081,388618,-0.4
+Toyota Corolla,329196,378210,-13.0
+Toyota FJ Cruiser,4,9,-55.6
+Toyota Highlander,215775,191379,12.7
+Toyota Land Cruiser,3100,3705,-16.3
+Toyota Mirai,1838,1034,77.8
+Toyota Prius,108662,136632,-20.5
+Toyota RAV4,407594,352154,15.7
+Toyota Sequoia,12156,12771,-4.8
+Toyota Sienna,111489,127791,-12.8
+Toyota Tacoma,198124,191631,3.4
+Toyota Tundra,116285,115489,0.7
+Toyota Venza,14,589,-97.6
+Toyota Yaris,44380,38855,14.2
+Volkswagen Atlas,27119,0,0.0
+Volkswagen Beetle,15166,15667,-3.2
+Volkswagen CC,1355,3237,-58.1
+Volkswagen Eos,1,387,-99.7
+Volkswagen Golf,68978,61687,11.8
+Volkswagen Jetta,115807,121107,-4.4
+Volkswagen Passat,60722,73002,-16.8
+Volkswagen Tiguan,46983,43638,7.7
+Volkswagen Touareg,3545,4223,-16.1
+Volvo S60,16825,20921,-19.6
+Volvo S80,7,644,-98.9
+Volvo S90,11090,2756,302.4
+Volvo XC60,22516,20452,10.1
+Volvo XC90,30996,35526,-12.8
