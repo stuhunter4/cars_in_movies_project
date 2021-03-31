@@ -3,7 +3,7 @@ Exploring data on cars featured in high grossing films to research the effective
 
 Hypothesis: cars with a 3+ star rating in films represent a higher proportion of cars with an increase in sales from the prior year than either cars with less than three stars in films or cars not in films at all.
 
-Null Hypothese: the increase or decrease in car sales year to year has no discernable relationship to it's presence or absence in top grossing films.
+Null Hypothesis: the increase or decrease in car sales year to year has no discernable relationship to it's presence or absence in top grossing films.
 
 Work in progress:
 
@@ -33,10 +33,10 @@ All questions answered for each given year, for four comparative categories:
             - subdivided into top and lower 50 films that year.
         D: total cars, regardless of film presence
 
-* How many  have a positive versus negative % change on the year before, for each category total (A, B, C, D)?
-* How many cars in films (A, B, C) had a positive % change out of all cars with a positive % change (C)?
-* How many cars in films (A, B, C) had a negative % change out of all cars with a negative % change (C)?
-* Out of all that year's films, how many cars in films (C) have a positive versus negative % change on the year before?
+* How many have a positive versus negative % change on the year before, for each category total (A, B, C, D)?  By how much change?
+* How many cars in films (A, B, C) had a positive % change out of all cars with a positive % change (C)?  By how much change?
+* How many cars in films (A, B, C) had a negative % change out of all cars with a negative % change (C)?  By how much change?
+* Out of all that year's films, how many cars in films (C) have a positive versus negative % change on the year before?  By how much change?
 
 ### Limitations
 
