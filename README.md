@@ -23,7 +23,7 @@ Work in progress:
 
 ### Analyze for Trends
 
-All questions answered for each given year, for three comparative categories:
+All questions answered for each given year, for four comparative categories:
 
         A: cars in films with significant on screen presence (i.e., >= 3 stars)
             - subdivided into top and lower 50 films that year.
