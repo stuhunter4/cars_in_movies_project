@@ -36,7 +36,8 @@ All questions answered for each given year, for four comparative categories:
 * How many have a positive versus negative % change on the year before, for each category total (A, B, C, D)?  By how much change?
 * How many cars in films (A, B, C) had a positive % change out of all cars with a positive % change (C)?  By how much change?
 * How many cars in films (A, B, C) had a negative % change out of all cars with a negative % change (C)?  By how much change?
-* Out of all that year's films, how many cars in films (C) have a positive versus negative % change on the year before?  By how much change?
+
+* If time allows, test for discernable differences among different film characteristics, such as for film genres, directors, awards and accolades, or rating on Rotten Tomatoes.
 
 ### Limitations
 
