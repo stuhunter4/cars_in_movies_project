@@ -52,3 +52,9 @@ All questions answered for each given year, for four comparative categories:
 * After looking at other research projects of a similar nature, a common metric used to measure the efficacy of product placement (besides sales) is feeback via changes in web traffic, and sentiment analysis of social media (i.e. twitter).  Such data for the entirety of the period in this analysis is not available for free.  Other common metric that are available, but not used in this analysis, include stock data and total sales data for each brand, as opposed to looking at individual vehicles here.  Including some or all of these variables could solve the limitations presented above.
 
 ### Summary Analysis
+
+Some preliminary images as the project enters the end stages of preprocessing:
+
+![inFilm](readme/car_in_film.JPG)
+
+![NotinFilm](readme/car_not_in_film.JPG)
