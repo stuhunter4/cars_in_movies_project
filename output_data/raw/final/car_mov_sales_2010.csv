@@ -1,7 +1,7 @@
 Vehicle Original,Sales,% Change,Change,Movie Presence,Release,Car,Stars,Vehicle,Rank,Gross,Distributor,Year,Strong Appearance,Weak Appearance,Total Appearance,Best Rank,Highest Star
 acura mdx,47210,0.514208737,Positive,acura mdx,The Other Guys,2007 acura mdx,1,acura mdx,18,"$119,219,978 ",Sony Pictures Entertainment (SPE),2010,0,2,2,18,1
-acura rdx,14975,0.474933517,Positive,0,,,,,,,,,,,,,
-acura rl,2037,-0.002936858,Negative,0,,,,,,,,,,,,,
+acura rdx,14975,0.474933517,Positive,0,,,,,,,,2010,,,,,
+acura rl,2037,-0.002936858,Negative,0,,,,,,,,2010,,,,,
 acura tl,34049,0.012760262,Positive,acura tl,The Other Guys,1999 acura tl,1,acura tl,18,"$119,219,978 ",Sony Pictures Entertainment (SPE),2010,0,3,3,18,1
 acura tsx,32076,0.119581152,Positive,acura tsx,Jackass 3D,2009 acura tsx,1,acura tsx,21,"$117,052,883 ",Paramount Pictures,2010,0,1,1,21,1
 acura zdx,3259,40.25316456,Positive,acura zdx,Iron Man 2,2010 acura zdx,2,acura zdx,4,"$312,433,331 ",Paramount Pictures,2010,0,1,1,4,2
@@ -10,18 +10,18 @@ audi a4,34672,-0.064688427,Negative,audi a4,Daybreakers,2005 audi a4 b7,2,audi a
 audi a5,16379,0.671326531,Positive,audi a5,The American,2009 audi a5 sportback b8,2,audi a5,89,"$35,606,376 ",Focus Features,2010,0,2,2,89,2
 audi a6,8675,0.278367227,Positive,audi a6,The Karate Kid,2005 faw-audi a6 l c6,2,audi a6,11,"$176,591,618 ",Sony Pictures Entertainment (SPE),2010,0,2,2,11,2
 audi a8,1521,0.039644566,Positive,audi a8,Iron Man 2,2008 audi a8 l d3,3,audi a8,4,"$312,433,331 ",Paramount Pictures,2010,1,1,2,4,3
-audi q5,23518,0.705438724,Positive,0,,,,,,,,,,,,,
-audi q7,7976,0.092752432,Positive,0,,,,,,,,,,,,,
+audi q5,23518,0.705438724,Positive,0,,,,,,,,2010,,,,,
+audi q7,7976,0.092752432,Positive,0,,,,,,,,2010,,,,,
 audi r8,799,0.143061516,Positive,audi r8,Date Night,2008 audi r8,4,audi r8,28,"$98,711,404 ",Twentieth Century Fox,2010,2,0,2,28,4
 audi tt,1531,-0.20878553,Negative,audi tt,Salt,2000 audi tt,1,audi tt,19,"$118,311,368 ",Sony Pictures Entertainment (SPE),2010,0,2,2,19,1
 bmw 1-series,13132,0.174387408,Positive,bmw 1-series,Cop Out,2008 bmw 1 cabriolet [e88],1,bmw 1,73,"$44,875,481 ",Warner Bros.,2010,0,1,1,73,1
 bmw 3-series,100910,0.109388742,Positive,bmw 3-series,Iron Man 2,bmw 3 [e90],1,bmw 3,4,"$312,433,331 ",Paramount Pictures,2010,0,20,20,4,1
 bmw 5-series,39488,-0.015482809,Negative,bmw 5-series,Eat Pray Love,2001 bmw 525i [e39],2,bmw 5,38,"$80,574,010 ",Sony Pictures Entertainment (SPE),2010,0,18,18,38,2
-bmw 6-series,2418,-0.318681319,Negative,0,,,,,,,,,,,,,
+bmw 6-series,2418,-0.318681319,Negative,0,,,,,,,,2010,,,,,
 bmw 7-series,12253,0.324076075,Positive,bmw 7-series,The Blind Side,2006 bmw 750li [e66],4,bmw 7,57,"$59,396,157 ",Warner Bros.,2010,1,9,10,57,4
 bmw x3,6075,0.001318609,Positive,bmw x3,Salt,2007 bmw x3 [e83],1,bmw x3,19,"$118,311,368 ",Sony Pictures Entertainment (SPE),2010,0,1,1,19,1
 bmw x5,35776,0.321561819,Positive,bmw x5,The Blind Side,2004 bmw x5 [e53],3,bmw x5,57,"$59,396,157 ",Warner Bros.,2010,1,6,7,57,3
-bmw x6,6257,0.30708168,Positive,0,,,,,,,,,,,,,
+bmw x6,6257,0.30708168,Positive,0,,,,,,,,2010,,,,,
 bmw z4,3804,0.079761567,Positive,bmw z4,Burlesque,2006 bmw z4 [e85],2,bmw z4,87,"$37,403,047 ",Screen Gems,2010,0,1,1,87,2
 buick enclave,55426,0.284495944,Positive,buick enclave,Wall Street: Money Never Sleeps,2008 buick enclave,1,buick enclave,65,"$52,474,616 ",Twentieth Century Fox,2010,0,1,1,65,1
 buick lacrosse,61178,1.199223524,Positive,buick lacrosse,RED,2005 buick lacrosse,2,buick lacrosse,34,"$89,296,297 ",Summit Entertainment,2010,0,1,1,34,2
@@ -29,8 +29,8 @@ buick lucerne,26459,-0.154448421,Negative,buick lucerne,Percy Jackson & the Olym
 cadillac cts,45656,0.176185692,Positive,cadillac cts,Valentine's Day,2004 cadillac cts,3,cadillac cts,22,"$110,485,654 ",Warner Bros.,2010,1,1,2,22,3
 cadillac dts,18640,0.07559146,Positive,cadillac dts,Grown Ups,2006 cadillac dts,2,cadillac dts,13,"$162,001,186 ",Sony Pictures Entertainment (SPE),2010,0,4,4,13,2
 cadillac escalade,26874,0.038247566,Positive,cadillac escalade,The Other Guys,2005 cadillac escalade,3,cadillac escalade,18,"$119,219,978 ",Sony Pictures Entertainment (SPE),2010,2,7,9,18,3
-cadillac srx,51094,1.524781341,Positive,0,,,,,,,,,,,,,
-cadillac sts,4473,-0.259069074,Negative,0,,,,,,,,,,,,,
+cadillac srx,51094,1.524781341,Positive,0,,,,,,,,2010,,,,,
+cadillac sts,4473,-0.259069074,Negative,0,,,,,,,,2010,,,,,
 cadillac xlr,188,-0.76111817,Negative,cadillac xlr,Takers,2006 cadillac xlr,3,cadillac xlr,60,"$57,744,720 ",Screen Gems,2010,1,0,1,60,3
 chevrolet avalanche,20515,0.248478578,Positive,chevrolet avalanche,The Town,2007 chevrolet avalanche,3,chevrolet avalanche,32,"$92,155,037 ",Warner Bros.,2010,2,2,4,32,3
 chevrolet aveo,48623,0.262410427,Positive,chevrolet aveo,Salt,2005 chevrolet aveo,1,chevrolet aveo,19,"$118,311,368 ",Sony Pictures Entertainment (SPE),2010,0,4,4,19,1
@@ -47,7 +47,7 @@ chevrolet suburban,45152,0.099792961,Positive,chevrolet suburban,Crazy Heart,197
 chevrolet tahoe,75675,0.03304939,Positive,chevrolet tahoe,Salt,2005 chevrolet tahoe,3,chevrolet tahoe,19,"$118,311,368 ",Sony Pictures Entertainment (SPE),2010,3,14,17,19,3
 chevrolet trailblazer,218,-0.975308642,Negative,chevrolet trailblazer,The Town,2006 chevrolet trailblazer,1,chevrolet trailblazer,32,"$92,155,037 ",Warner Bros.,2010,0,2,2,32,1
 chevrolet traverse,106744,0.172057887,Positive,chevrolet traverse,The Town,2009 chevrolet traverse,1,chevrolet traverse,32,"$92,155,037 ",Warner Bros.,2010,0,1,1,32,1
-chevrolet uplander,76,-0.956769056,Negative,0,,,,,,,,,,,,,
+chevrolet uplander,76,-0.956769056,Negative,0,,,,,,,,2010,,,,,
 chrysler 300,37116,-0.038595037,Negative,chrysler 300,Daybreakers,2008 chrysler 300,4,chrysler 300,100,"$30,101,577 ",Lionsgate,2010,2,9,11,100,4
 chrysler aspen,30,-0.994996664,Negative,chrysler aspen,The Town,2009 chrysler aspen,1,chrysler aspen,32,"$92,155,037 ",Warner Bros.,2010,0,1,1,32,1
 chrysler pt cruiser,9440,-0.47383089,Negative,chrysler pt cruiser,Kick-Ass,2003 chrysler pt cruiser,2,chrysler pt cruiser,70,"$48,071,303 ",Lionsgate,2010,0,6,6,70,2
@@ -61,9 +61,9 @@ dodge dakota,13047,0.220486436,Positive,dodge dakota,Unstoppable,2003 dodge dako
 dodge durango,572,-0.837546152,Negative,dodge durango,The Expendables,1998 dodge durango,3,dodge durango,25,"$103,068,524 ",Lionsgate,2010,1,2,3,25,3
 dodge grand caravan,103323,0.139600291,Positive,dodge grand caravan,Takers,1991 dodge grand caravan,1,dodge grand caravan,60,"$57,744,720 ",Screen Gems,2010,0,3,3,60,1
 dodge journey,48577,-0.097517928,Negative,dodge journey,Due Date,2009 dodge journey,1,dodge journey,26,"$98,935,039 ",Warner Bros.,2010,0,3,3,26,1
-dodge nitro,22618,0.296680617,Positive,0,,,,,,,,,,,,,
+dodge nitro,22618,0.296680617,Positive,0,,,,,,,,2010,,,,,
 dodge ram,199652,0.126272085,Positive,dodge ram,Salt,2009 dodge ram,2,dodge ram,19,"$118,311,368 ",Sony Pictures Entertainment (SPE),2010,0,11,11,19,2
-dodge viper,392,-0.186721992,Negative,0,,,,,,,,,,,,,
+dodge viper,392,-0.186721992,Negative,0,,,,,,,,2010,,,,,
 ford crown victoria,33722,0.014043001,Positive,ford crown victoria,Cop Out,2006 ford crown victoria,4,ford crown victoria,73,"$44,875,481 ",Warner Bros.,2010,13,66,79,73,4
 ford edge,118637,0.3398044,Positive,ford edge,Dear John,2008 ford edge,1,ford edge,40,"$80,014,842 ",Screen Gems,2010,0,3,3,40,1
 ford escape,191026,0.103915767,Positive,ford escape,The Back-up Plan,2008 ford escape hybrid,3,ford escape,86,"$37,490,007 ",CBS Films,2010,1,11,12,86,3
@@ -77,76 +77,76 @@ ford mustang,73716,0.106464734,Positive,ford mustang,Kick-Ass,2009 ford mustang,
 ford ranger,55364,-0.004244604,Negative,ford ranger,Edge of Darkness,1995 ford ranger,1,ford ranger,76,"$43,313,890 ",Warner Bros.,2010,0,2,2,76,1
 ford taurus,68859,0.509503036,Positive,ford taurus,Charlie St. Cloud,1996 ford taurus,4,ford taurus,97,"$31,162,545 ",Universal Pictures,2010,1,18,19,97,4
 ford taurus x,12,-0.99803472,Negative,ford taurus x,The Town,2008 ford taurus x,1,ford taurus x,32,"$92,155,037 ",Warner Bros.,2010,0,1,1,32,1
-gmc acadia,68295,0.268952062,Positive,0,,,,,,,,,,,,,
+gmc acadia,68295,0.268952062,Positive,0,,,,,,,,2010,,,,,
 gmc canyon,7992,-0.209260908,Negative,gmc canyon,Takers,2006 gmc canyon,1,gmc canyon,60,"$57,744,720 ",Screen Gems,2010,0,1,1,60,1
-gmc envoy,84,-0.982705374,Negative,0,,,,,,,,,,,,,
+gmc envoy,84,-0.982705374,Negative,0,,,,,,,,2010,,,,,
 gmc sierra,129794,0.160512151,Positive,gmc sierra,Yogi Bear,2007 gmc sierra,1,gmc sierra,61,"$57,418,550 ",Warner Bros.,2010,0,1,1,61,1
-gmc terrain,60519,3.312620252,Positive,0,,,,,,,,,,,,,
-gmc torrent,68,-0.992944594,Negative,0,,,,,,,,,,,,,
+gmc terrain,60519,3.312620252,Positive,0,,,,,,,,2010,,,,,
+gmc torrent,68,-0.992944594,Negative,0,,,,,,,,2010,,,,,
 gmc yukon,28781,-0.021420557,Negative,gmc yukon,Hot Tub Time Machine,2007 gmc yukon denali,3,gmc yukon,67,"$50,287,556 ",Metro-Goldwyn-Mayer (MGM),2010,1,6,7,67,3
-gmc yukon xl,23797,0.414887924,Positive,gmc yukon,,,,,,,,,,,,,
+gmc yukon xl,23797,0.414887924,Positive,gmc yukon,,,,,,,,2010,,,,,
 honda accord,311381,0.073520286,Positive,honda accord,The Other Guys,1996 honda accord,1,honda accord,18,"$119,219,978 ",Sony Pictures Entertainment (SPE),2010,0,23,23,18,1
 honda cr-v,203714,0.065371782,Positive,honda cr-v,Tooth Fairy,1998 honda cr-v,3,honda cr-v,56,"$60,022,256 ",Twentieth Century Fox,2010,1,4,5,56,3
-honda cr-z,5249,inf,Positive,0,,,,,,,,,,,,,
+honda cr-z,5249,inf,Positive,0,,,,,,,,2010,,,,,
 honda civic,260218,0.001909734,Positive,honda civic,The A-Team,1986 honda civic,2,honda civic,42,"$77,222,099 ",Twentieth Century Fox,2010,0,21,21,42,2
-honda element,14247,-0.042797635,Negative,0,,,,,,,,,,,,,
-honda fcx,17,2.4,Positive,0,,,,,,,,,,,,,
+honda element,14247,-0.042797635,Negative,0,,,,,,,,2010,,,,,
+honda fcx,17,2.4,Positive,0,,,,,,,,2010,,,,,
 honda fit,54354,-0.192542524,Negative,honda fit,The Bounty Hunter,2007 honda fit,1,honda fit,47,"$67,061,228 ",Sony Pictures Entertainment (SPE),2010,0,3,3,47,1
-honda insight,20962,0.018957807,Positive,0,,,,,,,,,,,,,
+honda insight,20962,0.018957807,Positive,0,,,,,,,,2010,,,,,
 honda odyssey,108182,0.08038309,Positive,honda odyssey,The Town,2002 honda odyssey,1,honda odyssey,32,"$92,155,037 ",Warner Bros.,2010,0,3,3,32,1
 honda pilot,102323,0.219568301,Positive,honda pilot,Wall Street: Money Never Sleeps,2003 honda pilot,1,honda pilot,65,"$52,474,616 ",Twentieth Century Fox,2010,0,2,2,65,1
-honda ridgeline,16142,-0.019557823,Negative,0,,,,,,,,,,,,,
-honda s2000,85,-0.893081761,Negative,0,,,,,,,,,,,,,
+honda ridgeline,16142,-0.019557823,Negative,0,,,,,,,,2010,,,,,
+honda s2000,85,-0.893081761,Negative,0,,,,,,,,2010,,,,,
 hummer h2,151,-0.900198282,Negative,hummer h2,Jackass 3D,2005 hummer h2 sut,1,hummer h2,21,"$117,052,883 ",Paramount Pictures,2010,0,2,2,21,1
-hummer h3,3661,-0.514005044,Negative,0,,,,,,,,,,,,,
+hummer h3,3661,-0.514005044,Negative,0,,,,,,,,2010,,,,,
 hyundai accent,51975,-0.236627207,Negative,hyundai accent,The Town,2009 hyundai accent,1,hyundai accent,32,"$92,155,037 ",Warner Bros.,2010,0,3,3,32,1
-hyundai azera,3051,-0.198792017,Negative,0,,,,,,,,,,,,,
+hyundai azera,3051,-0.198792017,Negative,0,,,,,,,,2010,,,,,
 hyundai elantra,132246,0.280597275,Positive,hyundai elantra,Salt,2001 hyundai elantra,1,hyundai elantra,19,"$118,311,368 ",Sony Pictures Entertainment (SPE),2010,0,7,7,19,1
 hyundai genesis,29122,0.330439947,Positive,hyundai genesis,Inception,2009 hyundai genesis,3,hyundai genesis,6,"$292,558,188 ",Warner Bros.,2010,1,0,1,6,3
-hyundai santa fe,76680,-0.045592024,Negative,0,,,,,,,,,,,,,
+hyundai santa fe,76680,-0.045592024,Negative,0,,,,,,,,2010,,,,,
 hyundai sonata,196623,0.638142767,Positive,hyundai sonata,Hereafter,2006 hyundai sonata,2,hyundai sonata,93,"$32,684,455 ",Warner Bros.,2010,0,10,10,93,2
 hyundai tucson,39594,1.569203815,Positive,hyundai tucson,The Other Guys,hyundai tucson,1,hyundai tucson,18,"$119,219,978 ",Sony Pictures Entertainment (SPE),2010,0,4,4,18,1
-hyundai veracruz,8741,-0.14387855,Negative,0,,,,,,,,,,,,,
+hyundai veracruz,8741,-0.14387855,Negative,0,,,,,,,,2010,,,,,
 infiniti g,58143,0.232522152,Positive,infiniti g,Salt,2005 infiniti g35,1,infiniti g,19,"$118,311,368 ",Sony Pictures Entertainment (SPE),2010,0,6,6,19,1
-infiniti q70/m,14618,0.719562404,Positive,0,,,,,,,,,,,,,
+infiniti q70/m,14618,0.719562404,Positive,0,,,,,,,,2010,,,,,
 infiniti ex/qx50,8312,0.045534591,Positive,infiniti ex/qx50,Edge of Darkness,2008 infiniti ex35,1,infiniti ex,76,"$43,313,890 ",Warner Bros.,2010,0,1,1,76,1
 infiniti qx70/fx,10420,-0.05478955,Negative,infiniti qx70/fx,Salt,2003 infiniti fx,1,infiniti fx,19,"$118,311,368 ",Sony Pictures Entertainment (SPE),2010,0,1,1,19,1
-infiniti qx80/qx56,11918,0.850621118,Positive,0,,,,,,,,,,,,,
+infiniti qx80/qx56,11918,0.850621118,Positive,0,,,,,,,,2010,,,,,
 jaguar xf,6925,-0.184142319,Negative,jaguar xf,Marmaduke,2009 jaguar xf [x250],1,jaguar xf,91,"$33,644,788 ",Twentieth Century Fox,2010,0,1,1,91,1
 jaguar xj,4278,2.684754522,Positive,jaguar xj,The Karate Kid,jaguar xj [x350],1,jaguar xj,11,"$176,591,618 ",Sony Pictures Entertainment (SPE),2010,0,6,6,11,1
-jaguar xk,2137,-0.060246262,Negative,0,,,,,,,,,,,,,
+jaguar xk,2137,-0.060246262,Negative,0,,,,,,,,2010,,,,,
 jeep commander,8115,-0.358751482,Negative,jeep commander,Salt,2006 jeep commander,1,jeep commander,19,"$118,311,368 ",Sony Pictures Entertainment (SPE),2010,0,1,1,19,1
-jeep compass,15894,0.353948377,Positive,0,,,,,,,,,,,,,
+jeep compass,15894,0.353948377,Positive,0,,,,,,,,2010,,,,,
 jeep grand cherokee,84635,0.681668256,Positive,jeep grand cherokee,The Town,1993 jeep grand cherokee,3,jeep grand cherokee,32,"$92,155,037 ",Warner Bros.,2010,1,12,13,32,3
 jeep liberty,49564,0.139323725,Positive,jeep liberty,Dear John,2002 jeep liberty,2,jeep liberty,40,"$80,014,842 ",Screen Gems,2010,0,4,4,40,2
-jeep patriot,38620,0.228684144,Positive,0,,,,,,,,,,,,,
+jeep patriot,38620,0.228684144,Positive,0,,,,,,,,2010,,,,,
 jeep wrangler,94310,0.149505144,Positive,jeep wrangler,The Twilight Saga: Eclipse,2007 jeep wrangler unlimited,2,jeep wrangler,5,"$300,531,751 ",Summit Entertainment,2010,0,9,9,5,2
 kia amanti,281,-0.924136069,Negative,kia amanti,Salt,2007 kia amanti,2,kia amanti,19,"$118,311,368 ",Sony Pictures Entertainment (SPE),2010,0,1,1,19,2
-kia borrego,9835,-0.066001899,Negative,0,,,,,,,,,,,,,
-kia forte,68500,1.601792768,Positive,0,,,,,,,,,,,,,
+kia borrego,9835,-0.066001899,Negative,0,,,,,,,,2010,,,,,
+kia forte,68500,1.601792768,Positive,0,,,,,,,,2010,,,,,
 kia optima,27382,-0.270338689,Negative,kia optima,Death at a Funeral,2003 kia optima,1,kia optima,77,"$42,739,347 ",Screen Gems,2010,0,1,1,77,1
 kia rio,24619,-0.289822881,Negative,kia rio,Date Night,2006 kia rio,1,kia rio,28,"$98,711,404 ",Twentieth Century Fox,2010,0,4,4,28,1
-kia rondo,3588,-0.747430663,Negative,0,,,,,,,,,,,,,
+kia rondo,3588,-0.747430663,Negative,0,,,,,,,,2010,,,,,
 kia sedona,21823,-0.203482006,Negative,kia sedona,The Expendables,2006 kia sedona,1,kia sedona,25,"$103,068,524 ",Lionsgate,2010,0,1,1,25,1
-kia sorento,108985,3.455641864,Positive,0,,,,,,,,,,,,,
-kia soul,67110,1.122323772,Positive,0,,,,,,,,,,,,,
+kia sorento,108985,3.455641864,Positive,0,,,,,,,,2010,,,,,
+kia soul,67110,1.122323772,Positive,0,,,,,,,,2010,,,,,
 kia spectra,272,-0.994226769,Negative,kia spectra,Due Date,2004 kia spectra,1,kia spectra,26,"$98,935,039 ",Warner Bros.,2010,0,4,4,26,1
-kia sportage,23873,-0.43840128,Negative,0,,,,,,,,,,,,,
-land rover discovery / lr4,7122,1.227713481,Positive,0,,,,,,,,,,,,,
-land rover lr2,3649,-0.176855403,Negative,0,,,,,,,,,,,,,
+kia sportage,23873,-0.43840128,Negative,0,,,,,,,,2010,,,,,
+land rover discovery / lr4,7122,1.227713481,Positive,0,,,,,,,,2010,,,,,
+land rover lr2,3649,-0.176855403,Negative,0,,,,,,,,2010,,,,,
 land rover range rover,8746,0.196115974,Positive,land rover range rover,The Other Guys,2006 land-rover range rover series iii,3,land-rover range rover,18,"$119,219,978 ",Sony Pictures Entertainment (SPE),2010,4,5,9,18,3
 land rover range rover sport,12347,0.086501232,Positive,land rover range rover sport,Inception,2005 land-rover range rover sport,2,land-rover range rover sport,6,"$292,558,188 ",Warner Bros.,2010,0,4,4,6,2
 lexus es/es350,48652,0.003444364,Positive,lexus es/es350,The Other Guys,2000 lexus es 300,1,lexus es,18,"$119,219,978 ",Sony Pictures Entertainment (SPE),2010,0,8,8,18,1
 lexus gs,7059,-0.049932705,Negative,lexus gs,Edge of Darkness,2000 lexus gs,1,lexus gs,76,"$43,313,890 ",Warner Bros.,2010,0,2,2,76,1
-lexus gx/gx460,16450,1.638331997,Positive,0,,,,,,,,,,,,,
-lexus hs/hs250h,10663,0.591730109,Positive,0,,,,,,,,,,,,,
+lexus gx/gx460,16450,1.638331997,Positive,0,,,,,,,,2010,,,,,
+lexus hs/hs250h,10663,0.591730109,Positive,0,,,,,,,,2010,,,,,
 lexus is,34129,-0.103684639,Negative,lexus is,Edge of Darkness,2001 lexus is 300,1,lexus is,76,"$43,313,890 ",Warner Bros.,2010,0,1,1,76,1
 lexus ls,12275,0.083024528,Positive,lexus ls,A Nightmare on Elm Street,2004 lexus ls 430,2,lexus ls,50,"$63,075,011 ",Warner Bros.,2010,0,1,1,50,2
-lexus lx/lx570,3983,0.101493363,Positive,0,,,,,,,,,,,,,
+lexus lx/lx570,3983,0.101493363,Positive,0,,,,,,,,2010,,,,,
 lexus rx,95790,0.02581951,Positive,lexus rx,Easy A,lexus rx,1,lexus rx,59,"$58,401,464 ",Screen Gems,2010,0,2,2,59,1
-lexus sc430,328,-0.544444444,Negative,0,,,,,,,,,,,,,
+lexus sc430,328,-0.544444444,Negative,0,,,,,,,,2010,,,,,
 lincoln mks,14417,-0.160533364,Negative,lincoln mks,The Other Guys,2009 lincoln mks,1,lincoln mks,18,"$119,219,978 ",Sony Pictures Entertainment (SPE),2010,0,1,1,18,1
-lincoln mkt,7435,1.881782946,Positive,0,,,,,,,,,,,,,
+lincoln mkt,7435,1.881782946,Positive,0,,,,,,,,2010,,,,,
 lincoln mkx/nautilus,21932,0.023281855,Positive,lincoln mkx/nautilus,Edge of Darkness,2007 lincoln mkx,1,lincoln mkx,76,"$43,313,890 ",Warner Bros.,2010,0,1,1,76,1
 lincoln mkz,22535,0.020560663,Positive,lincoln mkz,The Other Guys,2007 lincoln mkz,1,lincoln mkz,18,"$119,219,978 ",Sony Pictures Entertainment (SPE),2010,0,1,1,18,1
 lincoln navigator,8245,0.023333747,Positive,lincoln navigator,Get Him to the Greek,2007 lincoln navigator l,3,lincoln navigator,53,"$60,974,475 ",Universal Pictures,2010,1,5,6,53,3
@@ -154,53 +154,53 @@ lincoln town car,11264,-0.009758242,Negative,lincoln town car,Alvin and the Chip
 mazda 3,106353,0.125833633,Positive,mazda 3,The Other Guys,2004 mazda 3,1,mazda 3,18,"$119,219,978 ",Sony Pictures Entertainment (SPE),2010,0,5,5,18,1
 mazda 5,15683,-0.151720035,Negative,mazda 5,The Other Guys,2008 mazda 5,1,mazda 5,18,"$119,219,978 ",Sony Pictures Entertainment (SPE),2010,0,1,1,18,1
 mazda 6,35662,0.022830264,Positive,mazda 6,The Other Guys,2009 mazda 6,1,mazda 6,18,"$119,219,978 ",Sony Pictures Entertainment (SPE),2010,0,6,6,18,1
-mazda b-series,10,-0.982547993,Negative,0,,,,,,,,,,,,,
-mazda cx-7,28788,0.398629937,Positive,0,,,,,,,,,,,,,
+mazda b-series,10,-0.982547993,Negative,0,,,,,,,,2010,,,,,
+mazda cx-7,28788,0.398629937,Positive,0,,,,,,,,2010,,,,,
 mazda cx-9,28908,0.367972743,Positive,mazda cx-9,The Bounty Hunter,2007 mazda cx-9,1,mazda cx-9,47,"$67,061,228 ",Sony Pictures Entertainment (SPE),2010,0,1,1,47,1
 mazda mx-5 miata,6370,-0.195402299,Negative,mazda mx-5 miata,Paranormal Activity 2,2007 mazda mx-5 miata,2,mazda mx-5 miata,36,"$84,612,342 ",Paramount Pictures,2010,0,1,1,36,2
 mazda rx-8,1134,-0.48849797,Negative,mazda rx-8,Burlesque,mazda rx-8,1,mazda rx-8,87,"$37,403,047 ",Screen Gems,2010,0,1,1,87,1
-mazda tribute,3637,-0.341719457,Negative,0,,,,,,,,,,,,,
+mazda tribute,3637,-0.341719457,Negative,0,,,,,,,,2010,,,,,
 mercedes-benz c-class,58785,0.12127339,Positive,mercedes-benz c-class,Harry Potter and the Deathly Hallows: Part 1,mercedes-benz c-klasse [w204],1,mercedes-benz c,7,"$280,230,127 ",Warner Bros.,2010,0,8,8,7,1
 mercedes-benz cl-class,1035,-0.151639344,Negative,mercedes-benz cl-class,Valentine's Day,2007 mercedes-benz cl 550 [c216],1,mercedes-benz cl,22,"$110,485,654 ",Warner Bros.,2010,0,1,1,22,1
 mercedes-benz clk-class,585,-0.918181818,Negative,mercedes-benz clk-class,Harry Potter and the Deathly Hallows: Part 1,mercedes-benz clk [a208],1,mercedes-benz clk,7,"$280,230,127 ",Warner Bros.,2010,0,2,2,7,1
 mercedes-benz cls-class,2135,-0.155124654,Negative,mercedes-benz cls-class,The A-Team,2006 mercedes-benz cls 63 amg [c219],2,mercedes-benz cls,42,"$77,222,099 ",Twentieth Century Fox,2010,0,4,4,42,2
 mercedes-benz e-class,60922,0.414422363,Positive,mercedes-benz e-class,The A-Team,2010 mercedes-benz e-klasse [w212],3,mercedes-benz e,42,"$77,222,099 ",Twentieth Century Fox,2010,1,8,9,42,3
 mercedes-benz g-class,919,0.388217523,Positive,mercedes-benz g-class,Sex and the City 2,2009 mercedes-benz g-klasse [w463],2,mercedes-benz g,29,"$95,347,692 ",Warner Bros.,2010,0,2,2,29,2
-mercedes-benz gl-class/gls-class,19943,0.328470557,Positive,mercedes-benz gl-class,,,,,,,,,,,,,
-mercedes-benz gle-class/m-class,29698,0.151129889,Positive,0,,,,,,,,,,,,,
-mercedes-benz glk-class,20946,-0.045479402,Negative,0,,,,,,,,,,,,,
-mercedes-benz r-class,2937,0.039646018,Positive,0,,,,,,,,,,,,,
+mercedes-benz gl-class/gls-class,19943,0.328470557,Positive,mercedes-benz gl-class,,,,,,,,2010,,,,,
+mercedes-benz gle-class/m-class,29698,0.151129889,Positive,0,,,,,,,,2010,,,,,
+mercedes-benz glk-class,20946,-0.045479402,Negative,0,,,,,,,,2010,,,,,
+mercedes-benz r-class,2937,0.039646018,Positive,0,,,,,,,,2010,,,,,
 mercedes-benz s-class,13608,0.215108492,Positive,mercedes-benz s-class,The Bounty Hunter,2007 mercedes-benz s 550 [w221],3,mercedes-benz s,47,"$67,061,228 ",Sony Pictures Entertainment (SPE),2010,2,15,17,47,3
 mercedes-benz sl-class,2385,-0.407453416,Negative,mercedes-benz sl-class,The Sorcerer's Apprentice,2008 mercedes-benz slr mclaren roadster [r199],3,mercedes-benz sl,49,"$63,150,991 ",Walt Disney Studios Motion Pictures,2010,1,4,5,49,3
-mercedes-benz slk-class/slc-class,1980,-0.228371005,Negative,mercedes-benz slk-class,,,,,,,,,,,,,
+mercedes-benz slk-class/slc-class,1980,-0.228371005,Negative,mercedes-benz slk-class,,,,,,,,2010,,,,,
 mercury grand marquis,28543,0.151716903,Positive,mercury grand marquis,A Nightmare on Elm Street,1983 mercury grand marquis,2,mercury grand marquis,50,"$63,075,011 ",Warner Bros.,2010,0,12,12,50,2
-mercury mariner,29912,0.042665923,Positive,0,,,,,,,,,,,,,
-mercury milan,28912,0.055066963,Positive,0,,,,,,,,,,,,,
+mercury mariner,29912,0.042665923,Positive,0,,,,,,,,2010,,,,,
+mercury milan,28912,0.055066963,Positive,0,,,,,,,,2010,,,,,
 mercury mountaineer,5791,0.120332753,Positive,mercury mountaineer,The Town,2002 mercury mountaineer,1,mercury mountaineer,32,"$92,155,037 ",Warner Bros.,2010,0,1,1,32,1
 mercury sable,37,-0.994085678,Negative,mercury sable,Dinner for Schmucks,2000 mercury sable,2,mercury sable,44,"$73,026,337 ",DreamWorks,2010,0,4,4,44,2
 mini cooper,45644,0.009264787,Positive,mini cooper,The Bounty Hunter,2007 mini cooper,3,mini cooper,47,"$67,061,228 ",Sony Pictures Entertainment (SPE),2010,2,9,11,47,3
 mitsubishi eclipse/spyder,4282,-0.358213429,Negative,mitsubishi eclipse/spyder,Get Him to the Greek,mitsubishi eclipse 2g,2,mitsubishi eclipse,53,"$60,974,475 ",Universal Pictures,2010,0,5,5,53,2
-mitsubishi endeavor,4294,0.33023544,Positive,0,,,,,,,,,,,,,
+mitsubishi endeavor,4294,0.33023544,Positive,0,,,,,,,,2010,,,,,
 mitsubishi galant,11492,-0.021124361,Negative,mitsubishi galant,Salt,2002 mitsubishi galant,1,mitsubishi galant,19,"$118,311,368 ",Sony Pictures Entertainment (SPE),2010,0,3,3,19,1
 mitsubishi lancer,21416,0.064572252,Positive,mitsubishi lancer,Hereafter,1988 mitsubishi lancer,1,mitsubishi lancer,93,"$32,684,455 ",Warner Bros.,2010,0,1,1,93,1
 mitsubishi outlander,12500,0.215598561,Positive,mitsubishi outlander,Wall Street: Money Never Sleeps,2003 mitsubishi outlander,1,mitsubishi outlander,65,"$52,474,616 ",Twentieth Century Fox,2010,0,1,1,65,1
-mitsubishi raider,9,-0.99537037,Negative,0,,,,,,,,,,,,,
-nissan 370z/350z,10215,-0.221239613,Negative,0,,,,,,,,,,,,,
+mitsubishi raider,9,-0.99537037,Negative,0,,,,,,,,2010,,,,,
+nissan 370z/350z,10215,-0.221239613,Negative,0,,,,,,,,2010,,,,,
 nissan altima,229263,0.126223178,Positive,nissan altima,Vampires Suck,2007 nissan altima,2,nissan altima,88,"$36,661,504 ",Twentieth Century Fox,2010,0,13,13,88,2
-nissan armada,19344,0.95334747,Positive,0,,,,,,,,,,,,,
-nissan cube,22968,0.069721951,Positive,0,,,,,,,,,,,,,
+nissan armada,19344,0.95334747,Positive,0,,,,,,,,2010,,,,,
+nissan cube,22968,0.069721951,Positive,0,,,,,,,,2010,,,,,
 nissan frontier,40427,0.422734471,Positive,nissan frontier,Easy A,2001 nissan frontier,2,nissan frontier,59,"$58,401,464 ",Screen Gems,2010,0,1,1,59,2
-nissan gt-r,877,-0.428292047,Negative,0,,,,,,,,,,,,,
+nissan gt-r,877,-0.428292047,Negative,0,,,,,,,,2010,,,,,
 nissan maxima,60569,0.135292684,Positive,nissan maxima,The Other Guys,1997 nissan maxima,1,nissan maxima,18,"$119,219,978 ",Sony Pictures Entertainment (SPE),2010,0,4,4,18,1
 nissan murano,53999,0.027651962,Positive,nissan murano,The Town,2009 nissan murano,1,nissan murano,32,"$92,155,037 ",Warner Bros.,2010,0,3,3,32,1
 nissan pathfinder,21438,0.16885666,Positive,nissan pathfinder,Step Up 3D,2008 nissan pathfinder,1,nissan pathfinder,78,"$42,400,223 ",Walt Disney Studios Motion Pictures,2010,0,1,1,78,1
-nissan quest,177,-0.979020979,Negative,0,,,,,,,,,,,,,
+nissan quest,177,-0.979020979,Negative,0,,,,,,,,2010,,,,,
 nissan rogue,99515,0.288687162,Positive,nissan rogue,Percy Jackson & the Olympians: The Lightning Thief,2008 nissan rogue,1,nissan rogue,35,"$88,768,303 ",Twentieth Century Fox,2010,0,1,1,35,1
 nissan sentra,94065,0.13734191,Positive,nissan sentra,The Town,2007 nissan sentra,2,nissan sentra,32,"$92,155,037 ",Warner Bros.,2010,0,5,5,32,2
 nissan titan,23416,0.229702762,Positive,nissan titan,Jackass 3D,2006 nissan titan,1,nissan titan,21,"$117,052,883 ",Paramount Pictures,2010,0,1,1,21,1
 nissan versa,99705,0.202627072,Positive,nissan versa,The Other Guys,2009 nissan versa,1,nissan versa,18,"$119,219,978 ",Sony Pictures Entertainment (SPE),2010,0,2,2,18,1
 nissan xterra,20523,0.24721969,Positive,nissan xterra,The Expendables,2001 nissan xterra,3,nissan xterra,25,"$103,068,524 ",Lionsgate,2010,1,1,2,25,3
-pontiac g3,14,-0.997750281,Negative,0,,,,,,,,,,,,,
+pontiac g3,14,-0.997750281,Negative,0,,,,,,,,2010,,,,,
 pontiac g5,87,-0.992962304,Negative,pontiac g5,Salt,2008 pontiac g5,1,pontiac g5,19,"$118,311,368 ",Sony Pictures Entertainment (SPE),2010,0,2,2,19,1
 pontiac g6,479,-0.994505053,Negative,pontiac g6,Due Date,2006 pontiac g6,2,pontiac g6,26,"$98,935,039 ",Warner Bros.,2010,0,7,7,26,2
 pontiac g8,274,-0.988167725,Negative,pontiac g8,Takers,2008 pontiac g8,1,pontiac g8,60,"$57,744,720 ",Screen Gems,2010,0,1,1,60,1
@@ -209,32 +209,32 @@ pontiac solstice,157,-0.972172988,Negative,pontiac solstice,Takers,2006 pontiac 
 pontiac vibe,97,-0.997133739,Negative,pontiac vibe,The Town,2009 pontiac vibe,1,pontiac vibe,32,"$92,155,037 ",Warner Bros.,2010,0,2,2,32,1
 porsche 911,5737,-0.161134669,Negative,porsche 911,Love & Other Drugs,porsche 911 carrera cabrio [993],4,porsche 911,98,"$31,099,481 ",Twentieth Century Fox,2010,4,3,7,98,4
 porsche boxster,2177,0.140387638,Positive,porsche boxster,Dinner for Schmucks,2005 porsche boxster [987],4,porsche boxster,44,"$73,026,337 ",DreamWorks,2010,2,1,3,44,4
-porsche cayenne,8343,0.078603749,Positive,0,,,,,,,,,,,,,
-porsche cayman,1322,-0.327568667,Negative,0,,,,,,,,,,,,,
-porsche panamera,7741,5.207698476,Positive,0,,,,,,,,,,,,,
-ram pickup,199652,0.126272085,Positive,0,,,,,,,,,,,,,
+porsche cayenne,8343,0.078603749,Positive,0,,,,,,,,2010,,,,,
+porsche cayman,1322,-0.327568667,Negative,0,,,,,,,,2010,,,,,
+porsche panamera,7741,5.207698476,Positive,0,,,,,,,,2010,,,,,
+ram pickup,199652,0.126272085,Positive,0,,,,,,,,2010,,,,,
 saab 9-3,4533,-0.164885777,Negative,saab 9-3,Death at a Funeral,1999 saab 9-3,3,saab 9-3,77,"$42,739,347 ",Screen Gems,2010,1,5,6,77,3
 saab 9-5,811,-0.215667311,Negative,saab 9-5,Salt,2002 saab 9-5 sportwagon,1,saab 9-5,19,"$118,311,368 ",Sony Pictures Entertainment (SPE),2010,0,1,1,19,1
-saab 9-7x,102,-0.954012624,Negative,0,,,,,,,,,,,,,
+saab 9-7x,102,-0.954012624,Negative,0,,,,,,,,2010,,,,,
 saturn astra,25,-0.996030486,Negative,saturn astra,Takers,2008 saturn astra,1,saturn astra,60,"$57,744,720 ",Screen Gems,2010,0,2,2,60,1
 saturn aura,644,-0.969899509,Negative,saturn aura,Edge of Darkness,2009 saturn aura,1,saturn aura,76,"$43,313,890 ",Warner Bros.,2010,0,1,1,76,1
 saturn outlook,2649,-0.798017537,Negative,saturn outlook,Edge of Darkness,2007 saturn outlook,1,saturn outlook,76,"$43,313,890 ",Warner Bros.,2010,0,1,1,76,1
-saturn sky,179,-0.947337452,Negative,0,,,,,,,,,,,,,
+saturn sky,179,-0.947337452,Negative,0,,,,,,,,2010,,,,,
 saturn vue,3201,-0.887403707,Negative,saturn vue,Takers,2008 saturn vue hybrid,1,saturn vue,60,"$57,744,720 ",Screen Gems,2010,0,1,1,60,1
 scion tc,15204,-0.155239471,Negative,scion tc,Step Up 3D,2005 scion tc,1,scion tc,78,"$42,400,223 ",Walt Disney Studios Motion Pictures,2010,0,1,1,78,1
 scion xb,20364,-0.200188524,Negative,scion xb,Dinner for Schmucks,2005 scion xb,1,scion xb,44,"$73,026,337 ",DreamWorks,2010,0,2,2,44,1
-scion xd,10110,-0.302710532,Negative,0,,,,,,,,,,,,,
+scion xd,10110,-0.302710532,Negative,0,,,,,,,,2010,,,,,
 smart fortwo,5927,-0.593902021,Negative,smart fortwo,Grown Ups,2008 smart fortwo,2,smart fortwo,13,"$162,001,186 ",Sony Pictures Entertainment (SPE),2010,0,5,5,13,2
 subaru forester,85080,0.093840398,Positive,subaru forester,Easy A,2001 subaru forester,2,subaru forester,59,"$58,401,464 ",Screen Gems,2010,0,6,6,59,2
 subaru impreza/wrx/wrx sti,44395,-0.047542426,Negative,subaru impreza/wrx/wrx sti,Due Date,2010 subaru impreza,4,subaru impreza,26,"$98,935,039 ",Warner Bros.,2010,1,4,5,26,4
 subaru legacy,38725,0.250242139,Positive,subaru legacy,The Town,1996 subaru legacy,2,subaru legacy,32,"$92,155,037 ",Warner Bros.,2010,0,4,4,32,2
 subaru outback,93148,0.682708288,Positive,subaru outback,The Other Guys,2000 subaru outback sus,1,subaru outback,18,"$119,219,978 ",Sony Pictures Entertainment (SPE),2010,0,4,4,18,1
 subaru tribeca,2472,-0.583136594,Negative,subaru tribeca,Step Up 3D,2008 subaru tribeca,1,subaru tribeca,78,"$42,400,223 ",Walt Disney Studios Motion Pictures,2010,0,1,1,78,1
-suzuki equator,1447,-0.34849167,Negative,0,,,,,,,,,,,,,
+suzuki equator,1447,-0.34849167,Negative,0,,,,,,,,2010,,,,,
 suzuki forenza/reno,12,-0.996816132,Negative,suzuki forenza/reno,Get Him to the Greek,2006 suzuki forenza,1,suzuki forenza,53,"$60,974,475 ",Universal Pictures,2010,0,1,1,53,1
-suzuki grand vitara,4478,-0.40806345,Negative,0,,,,,,,,,,,,,
-suzuki kizashi,6138,85.45070423,Positive,0,,,,,,,,,,,,,
-suzuki sx4/aerio,11606,-0.439540274,Negative,0,,,,,,,,,,,,,
+suzuki grand vitara,4478,-0.40806345,Negative,0,,,,,,,,2010,,,,,
+suzuki kizashi,6138,85.45070423,Positive,0,,,,,,,,2010,,,,,
+suzuki sx4/aerio,11606,-0.439540274,Negative,0,,,,,,,,2010,,,,,
 suzuki xl7,313,-0.928227471,Negative,suzuki xl7,Salt,2007 suzuki xl7,1,suzuki xl7,19,"$118,311,368 ",Sony Pictures Entertainment (SPE),2010,0,1,1,19,1
 toyota 4runner,46531,1.36498094,Positive,toyota 4runner,Daybreakers,1993 toyota 4runner,2,toyota 4runner,100,"$30,101,577 ",Lionsgate,2010,0,4,4,100,2
 toyota avalon,28390,0.054018934,Positive,toyota avalon,The Other Guys,2005 toyota avalon,1,toyota avalon,18,"$119,219,978 ",Sony Pictures Entertainment (SPE),2010,0,3,3,18,1
@@ -249,23 +249,23 @@ toyota sequoia,13848,-0.154939891,Negative,toyota sequoia,Edge of Darkness,2005 
 toyota sienna,98337,0.169787305,Positive,toyota sienna,The Bounty Hunter,2004 toyota sienna,2,toyota sienna,47,"$67,061,228 ",Sony Pictures Entertainment (SPE),2010,0,11,11,47,2
 toyota tacoma,106198,-0.050311203,Negative,toyota tacoma,Takers,2005 toyota tacoma,1,toyota tacoma,60,"$57,744,720 ",Screen Gems,2010,0,2,2,60,1
 toyota tundra,93309,0.175398375,Positive,toyota tundra,Inception,2008 toyota tundra,2,toyota tundra,6,"$292,558,188 ",Warner Bros.,2010,0,4,4,6,2
-toyota venza,47321,-0.13028855,Negative,0,,,,,,,,,,,,,
-toyota yaris hatchback,40076,-0.371287828,Negative,0,,,,,,,,,,,,,
-volkswagen beetle,16537,0.174085907,Positive,0,,,,,,,,,,,,,
-volkswagen cc,27987,0.172377681,Positive,0,,,,,,,,,,,,,
+toyota venza,47321,-0.13028855,Negative,0,,,,,,,,2010,,,,,
+toyota yaris hatchback,40076,-0.371287828,Negative,0,,,,,,,,2010,,,,,
+volkswagen beetle,16537,0.174085907,Positive,0,,,,,,,,2010,,,,,
+volkswagen cc,27987,0.172377681,Positive,0,,,,,,,,2010,,,,,
 volkswagen eos,6690,-0.07134925,Negative,volkswagen eos,Little Fockers,2007 volkswagen eos [typ 1f],2,volkswagen eos,37,"$84,557,425 ",Universal Pictures,2010,0,3,3,37,2
 volkswagen golf/gti/r/sportwagen alltrack,28286,0.795708481,Positive,volkswagen golf/gti/r/sportwagen alltrack,Green Zone,volkswagen golf iii [typ 1h],2,volkswagen golf,90,"$35,053,660 ",Universal Pictures,2010,0,10,10,90,2
 volkswagen jetta,123213,0.136368248,Positive,volkswagen jetta,Dear John,1996 volkswagen jetta a3 [typ 1h],3,volkswagen jetta,40,"$80,014,842 ",Screen Gems,2010,1,15,16,40,3
 volkswagen passat,12497,0.122014724,Positive,volkswagen passat,Inception,1978 volkswagen passat b1 [typ 32],1,volkswagen passat,6,"$292,558,188 ",Warner Bros.,2010,0,10,10,6,1
 volkswagen routan,15961,0.087187521,Positive,volkswagen routan,Life as We Know It,2009 volkswagen routan [rt],3,volkswagen routan,64,"$52,727,343 ",Warner Bros.,2010,1,0,1,64,3
-volkswagen tiguan,20946,0.506581313,Positive,0,,,,,,,,,,,,,
+volkswagen tiguan,20946,0.506581313,Positive,0,,,,,,,,2010,,,,,
 volkswagen touareg,4713,0.073087432,Positive,volkswagen touareg,The Book of Eli,2007 volkswagen touareg 2 i [typ 7l],1,volkswagen touareg,30,"$94,835,059 ",Warner Bros.,2010,0,1,1,30,1
 volvo c30,3906,-0.084388186,Negative,volvo c30,She's Out of My League,2008 volvo c30,3,volvo c30,95,"$32,010,860 ",Paramount Pictures,2010,1,1,2,95,3
-volvo c70,4368,-0.155125725,Negative,0,,,,,,,,,,,,,
+volvo c70,4368,-0.155125725,Negative,0,,,,,,,,2010,,,,,
 volvo s40,5623,-0.293237808,Negative,volvo s40,Inception,volvo s40,1,volvo s40,6,"$292,558,188 ",Warner Bros.,2010,0,4,4,6,1
 volvo s60/v60,1437,-0.756234097,Negative,volvo s60/v60,The Other Guys,2001 volvo s60,1,volvo s60,18,"$119,219,978 ",Sony Pictures Entertainment (SPE),2010,0,1,1,18,1
 volvo s80,7224,-0.132877206,Negative,volvo s80,The Other Guys,1999 volvo s80,1,volvo s80,18,"$119,219,978 ",Sony Pictures Entertainment (SPE),2010,0,2,2,18,1
-volvo v50,1720,-0.201856148,Negative,0,,,,,,,,,,,,,
+volvo v50,1720,-0.201856148,Negative,0,,,,,,,,2010,,,,,
 volvo v70,895,-0.50715859,Negative,volvo v70,The Last Song,1997 volvo v70,3,volvo v70,51,"$62,950,384 ",Walt Disney Studios Motion Pictures,2010,1,7,8,51,3
 volvo xc60,12030,0.298855539,Positive,volvo xc60,The Twilight Saga: Eclipse,2010 volvo xc60,3,volvo xc60,5,"$300,531,751 ",Summit Entertainment,2010,1,1,2,5,3
 volvo xc70,6626,0.13751073,Positive,volvo xc70,Cop Out,volvo xc70,2,volvo xc70,73,"$44,875,481 ",Warner Bros.,2010,0,3,3,73,2
