@@ -31,13 +31,11 @@ All questions answered for each given year, for four comparative categories:
             - subdivided into top and lower 50 films that year.
         C: total cars in films, regardless of screen presence
             - subdivided into top and lower 50 films that year.
-        D: total cars, regardless of film presence
+        D: total cars
 
 * How many have a positive versus negative % change on the year before, for each category total (A, B, C, D)?  By how much change?
 * How many cars in films (A, B, C) had a positive % change out of all cars with a positive % change (C)?  By how much change?
 * How many cars in films (A, B, C) had a negative % change out of all cars with a negative % change (C)?  By how much change?
-
-* If time allows, test for discernable differences among different film characteristics, such as for film genres, directors, awards and accolades, or rating on Rotten Tomatoes.
 
 ### Assumptions
 * Cars that have been have been renamed or succeeded were researched and had related data consolidated, removed, and/or recategorized.  An example of this is the Mercedes M-Class, which had a particular history of renaming for legal and internal reasons, and the Mercedes GLE-Class.  For all intents and purposes, they are represented as the same vehicle in this analysis.  For a different kind of example, consider the Toyota86 and Subura BRZ, a collaborative effort between two car makers.  Despite collaborating, the two cars are distinct in certain ways, and have unique sales data.  However, the Scion FR-S, another vehicle born of said collaboration, is considered the same vehicle as the Toyota86 (Toyota also owned and operated Scion) from a sales figure perspective, and so the Toyota and Scion occupy one row of data.  The alternative would be to erroneously count the same vehicle twice.  Research and ad hoc considerations were given for each brand with particular histories and naming conventions, in order to produce a clean, complete and accurate record of all sales data (available for free).
