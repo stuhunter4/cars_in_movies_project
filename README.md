@@ -35,7 +35,7 @@ For each given year, questions answered for four comparative categories:
 * How many cars in films (A, B, C) had a positive % change out of all cars with a positive % change (C)?  By how much change?
 * How many cars in films (A, B, C) had a negative % change out of all cars with a negative % change (C)?  By how much change?
 
-* Using Pandas and SciPy to explore correlations between sales or % change with and of the four movie characteristics: Strongest Plot Rank, Count of High Plot Appearances, Count of Low Plot Appearances, or Total Appearances
+* Using Pandas and SciPy to explore correlations between sales or % change with four movie characteristics: Strongest Plot Rank (Stars), Count of High Plot Appearances, Count of Low Plot Appearances, or Total Appearances
 
 ### Assumptions
 * Cars that have been have been renamed or succeeded were researched and had related data consolidated, removed, and/or recategorized.  An example of this is the Mercedes M-Class, which had a particular history of renaming for legal and internal reasons, and the Mercedes GLE-Class.  For all intents and purposes, they are represented as the same vehicle in this analysis.  For a different kind of example, consider the Toyota86 and Subura BRZ, a collaborative effort between two car makers.  Despite collaborating, the two cars are distinct in certain ways, and have unique sales data.  However, the Scion FR-S, another vehicle born of said collaboration, is considered the same vehicle as the Toyota86 (Toyota also owned and operated Scion) from a sales figure perspective, and so the Toyota and Scion occupy one row of data.  The alternative would be to erroneously count the same vehicle twice.  Research and ad hoc considerations were given for each brand with particular histories and naming conventions, in order to produce a clean, complete and accurate record of all sales data (available for free).
@@ -48,7 +48,7 @@ For each given year, questions answered for four comparative categories:
 * Sometimes, a top grossing film will feature a "made-for-movie," fictitious vehicle with a real auto brand represented (e.g. futuristic sci-fi films with Audi branded flying cars).  While this is clearly an instance of product placement marketing, the data for that category is incomplete and absent from the larger dataset of real, nonfictional vehicles.
 * Since monthly data was not as complete for all cars as annual data was, this study is unable to do a more granular, and perhaps more accurate, examination of sales data over time.
 * Many of the vehicles in this project have a longer sales history beginning before the earliest year featured, 2009, which is likely relevant to any conclusions about potential patterns.
-* After looking at other research projects of a similar nature, a common metric used to measure the efficacy of product placement (besides sales) is feeback via changes in web traffic, and sentiment analysis of social media (i.e. twitter).  Such data for the entirety of the period in this analysis is not available for free.  Other common metric that are available, but not used in this analysis, include stock data and total sales data for each brand, as opposed to looking at individual vehicles here.  Including some or all of these variables could solve the limitations presented above.
+* After looking at other related research projects, a common metric used to measure the efficacy of product placement (besides sales) is feeback via changes in web traffic, and sentiment analysis of social media (e.g. twitter).  Such data for the entirety of the period in this analysis is not available for free.  Other common metrics that are available, but not used in this analysis, include stock data and total sales data for each brand.  Including some or all of these variables could solve the limitations presented above.
 * When calculating correlation coefficient for sales, % change against movie appearance details, the sample size was too small (7>n<12).
 * Many cars did not have more than 7 years of data, excluding them from any correlation calculations.
 * Project too large in scope, and given the selection process for finding associations in the data, any findings for one car or group of cars cannot be generalized to other cars/groups.
@@ -56,15 +56,15 @@ For each given year, questions answered for four comparative categories:
 
 ### Summary Analysis
 
-* The proportion of cars with higher sales than the prior year was not significantly higher over time, for cars that with appearances in films.  This was true regardless of whether the plot presence was high or low.  The effect of films on car sales over time is not discernable here.
-* Vast majority of vehicles had sample size (n<8) too small for calculating correlation, or had no meaningful association whatsoever.  A few select cars had strong associations with their sales, or % change in sales, and either the level of plot presence, the total number of appearances in films, or both.  The association with film presence was sometimes positive, sometimes negative.
+* The proportion of cars with higher sales than the prior year was not significantly higher over time, for cars that appeared in films.  This was true regardless of whether the plot presence was high or low.  The effect of films on car sales over time is not apparent here.
+* Vast majority of vehicles had sample size (n<8) too small for calculating correlation, or had no meaningful association whatsoever.  A few select cars had strong associations with their sales, or % change in sales, and either the level of plot presence, total number of appearances in films, or both.  The association with film presence was mostly positive, sometimes negative.
     
         206 cars have sample size n>=8, out of 446 cars total.
         240 cars have a sample size too small to evaluate (n<8).
-        76 cars have significant strength r value >0.5 or <-0.5, while 130 have no  significant correlation coefficient
+        76 cars have significant strength r value >0.5 or <-0.5, while 130 have no significant correlation coefficient.
 
 * Given yearly sales data, this study would not being able to recommend investing in product placement in movies.  This conclusion is as much due to the limitations and weaknesses of this research project, as it is to an absence of results.
-* Conclusion:  Given the number of limitations, lack of precision, and inability to generalize findings, more research would need to be done on car product placement in films.  A much better project could be designed for more meaningful findings, especially along the guidelines in the Future Ideas section.  However, such a project is not possible at this time, given lack of time and access to resources.
+* Conclusion:  Given the number of limitations, lack of precision, and inability to generalize findings, more research would need to be done on car product placement in films.  A much better project could be designed for more meaningful findings, along the guidelines in the Future Ideas section, as one example.  Such a project is not possible at this time, given lack of time and access to some of the data.
 
 ### Future Ideas
 
