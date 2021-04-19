@@ -3,7 +3,19 @@ Exploring data on cars featured in high grossing films to research the effective
 
 Hypothesis: Cars with a 3+ star rating in films represent a higher proportion of cars with an increase in sales from the prior year than either cars with less than three stars in films or cars not in films at all.
 
-Work in progress:
+Results: The results were negative or inconclusive, and require better methods.  The collection and compilation of quality data was successful.
+
+### Summary Analysis
+
+* The proportion of cars with higher sales than the prior year was not significantly higher over time, for cars that appeared in films.  This was true regardless of whether the plot presence was high or low.  The effect of films on car sales over time is not apparent here.
+* Vast majority of vehicles had sample size (n<8) too small for calculating correlation, or had no meaningful association whatsoever.  A few select cars had strong associations with their sales, or % change in sales, and either the level of plot presence, total number of appearances in films, or both.  The association with film presence was mostly positive, sometimes negative.
+    
+        206 cars have sample size n>=8, out of 446 cars total.
+        240 cars have a sample size too small to evaluate (n<8).
+        76 cars have significant strength r value >0.5 or <-0.5, while 130 have no significant correlation coefficient.
+
+* Using yearly sales data, this study would not being able to recommend investing in product placement in movies.  This conclusion is as much due to the limitations and weaknesses of this research project, as it is to an absence of results.
+* Given the number of limitations, lack of precision, and inability to generalize findings, more research would need to be done on car product placement in films.  A much better project could be designed for more meaningful findings, along the guidelines in the Future Ideas section, as one example.  Such a project is not possible at this time, given lack of time and access to some of the data.
 
 ### Data Sources
 * Domestic yearly box office - boxofficemojo.com
@@ -17,7 +29,7 @@ Work in progress:
 * Scrape car and star data (stars: screen time) for the top 100 grossing films each year (Beautiful Soup, Splinter)
 * Collect movie details: genre, director, ratings, etc. (Python API requests)
 * Scrape car sales volume data in the U.S. for the years 2010-2020 (Python requests)
-* Correct and complete car sales dataset manually
+* Correct and complete car sales dataset manually (Excel)
 
 ### Analyze for Trends
 
@@ -52,19 +64,6 @@ For each given year, questions answered for four comparative categories:
 * When calculating correlation coefficient for sales, % change against movie appearance details, the sample size was too small (7>n<12).
 * Many cars did not have more than 7 years of data, excluding them from any correlation calculations.
 * Project too large in scope, and given the selection process for finding associations in the data, any findings for one car or group of cars cannot be generalized to other cars/groups.
-
-
-### Summary Analysis
-
-* The proportion of cars with higher sales than the prior year was not significantly higher over time, for cars that appeared in films.  This was true regardless of whether the plot presence was high or low.  The effect of films on car sales over time is not apparent here.
-* Vast majority of vehicles had sample size (n<8) too small for calculating correlation, or had no meaningful association whatsoever.  A few select cars had strong associations with their sales, or % change in sales, and either the level of plot presence, total number of appearances in films, or both.  The association with film presence was mostly positive, sometimes negative.
-    
-        206 cars have sample size n>=8, out of 446 cars total.
-        240 cars have a sample size too small to evaluate (n<8).
-        76 cars have significant strength r value >0.5 or <-0.5, while 130 have no significant correlation coefficient.
-
-* Given yearly sales data, this study would not being able to recommend investing in product placement in movies.  This conclusion is as much due to the limitations and weaknesses of this research project, as it is to an absence of results.
-* Conclusion:  Given the number of limitations, lack of precision, and inability to generalize findings, more research would need to be done on car product placement in films.  A much better project could be designed for more meaningful findings, along the guidelines in the Future Ideas section, as one example.  Such a project is not possible at this time, given lack of time and access to some of the data.
 
 ### Future Ideas
 
