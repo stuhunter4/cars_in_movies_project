@@ -5,6 +5,14 @@ Hypothesis: Cars with a 3+ star rating in films represent a higher proportion of
 
 Results: The results were negative or inconclusive, and require better methods.  The collection and compilation of quality data was successful.
 
+Presentation of Visuals, and exploration of data, available on my website:
+
+https://stuhunter4.github.io/cars_in_movies_project/index.html
+
+Samples:
+
+![dash](output_data/img/dash.png)
+
 ### Summary Analysis
 
 * The proportion of cars with higher sales than the prior year was not significantly higher over time, for cars that appeared in films.  This was true regardless of whether the plot presence was high or low.  The effect of films on car sales over time is not apparent here.
@@ -14,7 +22,7 @@ Results: The results were negative or inconclusive, and require better methods. 
         240 cars have a sample size too small to evaluate (n<8).
         76 cars have significant strength r value >0.5 or <-0.5, while 130 have no significant correlation coefficient.
 
-* Using yearly sales data, this study would not being able to recommend investing in product placement in movies.  This conclusion is as much due to the limitations and weaknesses of this research project, as it is to an absence of results.
+* Using yearly sales data, this study would not being able to comment on the value of investing in product placement.  This conclusion is as much due to the limitations and weaknesses of this research project, as it is to an absence of results.
 * Given the number of limitations, lack of precision, and inability to generalize findings, more research would need to be done on car product placement in films.  A much better project could be designed for more meaningful findings, along the guidelines in the Future Ideas section, as one example.  Such a project is not possible at this time, given lack of time and access to some of the data.
 
 ### Data Sources
@@ -47,7 +55,7 @@ For each given year, questions answered for four comparative categories:
 * How many cars in films (A, B, C) had a positive % change out of all cars with a positive % change (C)?  By how much change?
 * How many cars in films (A, B, C) had a negative % change out of all cars with a negative % change (C)?  By how much change?
 
-* Using Pandas and SciPy to explore correlations between sales or % change with four movie characteristics: Strongest Plot Rank (Stars), Count of High Plot Appearances, Count of Low Plot Appearances, or Total Appearances
+* Use Pandas and SciPy to explore correlations between sales or % change with four movie characteristics: Strongest Plot Rank (Stars), Count of High Plot Appearances, Count of Low Plot Appearances, or Total Appearances
 
 ### Assumptions
 * Cars that have been have been renamed or succeeded were researched and had related data consolidated, removed, and/or recategorized.  An example of this is the Mercedes M-Class, which had a particular history of renaming for legal and internal reasons, and the Mercedes GLE-Class.  For all intents and purposes, they are represented as the same vehicle in this analysis.  For a different kind of example, consider the Toyota86 and Subura BRZ, a collaborative effort between two car makers.  Despite collaborating, the two cars are distinct in certain ways, and have unique sales data.  However, the Scion FR-S, another vehicle born of said collaboration, is considered the same vehicle as the Toyota86 (Toyota also owned and operated Scion) from a sales figure perspective, and so the Toyota and Scion occupy one row of data.  The alternative would be to erroneously count the same vehicle twice.  Research and ad hoc considerations were given for each brand with particular histories and naming conventions, in order to produce a clean, complete and accurate record of all sales data (available for free).
