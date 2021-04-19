@@ -11,6 +11,8 @@ https://stuhunter4.github.io/cars_in_movies_project/index.html
 
 Samples:
 
+![dash](output_data/img/presentation.png)
+
 ![dash](output_data/img/dash.png)
 
 ### Summary Analysis
